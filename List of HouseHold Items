@@ -6,3 +6,5 @@ household_items.Add("Sofa");
 household_items.Add("Dining Table");
 foreach( Var u in household_items)
 Console.WriteLine("u");
+}
+household_items.Add("Stove");
